@@ -1,3 +1,4 @@
 hello world
 second string
 third string in feature-test
+changes from github
